@@ -1,0 +1,12 @@
+// Problem description
+
+Write function that translates a text to Pig Latin and back.
+English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’.
+“The quick brown fox” becomes “Hetay uickqay rownbay oxfay”.
+
+
+// Problem destruction
+
+1. Destruct a given string
+2. Shift the letters and create a "new" string
+3. Return the new string

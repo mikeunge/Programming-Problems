@@ -1,0 +1,10 @@
+// Problem description
+
+Write a function that returns the largest element in a list.
+
+
+// Problem destruct
+
+1. Pass a random generated list to function ✔
+2. Function checks the list ✔
+3. Find the largest element in the list ✔
